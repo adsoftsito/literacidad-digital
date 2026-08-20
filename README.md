@@ -1,6 +1,8 @@
 # literacidad-digital
 # [Lista Clase](https://docs.google.com/spreadsheets/d/17q4kyziGswmRFDLitotDv-XQpWgx-FvGX1ufnenfF38/edit?usp=sharing)
-# [Bienvenida](https://docs.google.com/presentation/d/1nW4vdmM1xHiHgJIZ2vMrIq-yNOfMz8IYiHanDkBvqxs/edit?usp=sharing)
+# [1.- Bienvenida](https://docs.google.com/presentation/d/1nW4vdmM1xHiHgJIZ2vMrIq-yNOfMz8IYiHanDkBvqxs/edit?usp=sharing)
+# [2.- Practica Github](https://docs.google.com/presentation/d/1kHpenJJeJnef6O582Vypn5YqPr7k9gjpiicg-59C6CQ/edit?usp=sharing)
+
 # lecturas
 ## [ruta](https://drive.google.com/file/d/19nv-weXL5FDrGLwE0N6UybOJTXVaA7t4/view?usp=sharing)
 ## [slides-day1 ](https://drive.google.com/file/d/1BM5l4umIBe5QV1VtKaDCEjWPMM78yWZr/view?usp=sharing)[video](https://www.youtube.com/live/uRzoVP63RiI)

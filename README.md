@@ -2,7 +2,7 @@
 # [Lista Clase](https://docs.google.com/spreadsheets/d/17q4kyziGswmRFDLitotDv-XQpWgx-FvGX1ufnenfF38/edit?usp=sharing)
 # [1.- Bienvenida](https://docs.google.com/presentation/d/1nW4vdmM1xHiHgJIZ2vMrIq-yNOfMz8IYiHanDkBvqxs/edit?usp=sharing)
 # [2.- Practica Github](https://docs.google.com/presentation/d/1kHpenJJeJnef6O582Vypn5YqPr7k9gjpiicg-59C6CQ/edit?usp=sharing)
-# [Ciencia datos](https://github.com/adsoftsito/ciencia-datos)
+# [3.- Ciencia datos](https://github.com/adsoftsito/ciencia-datos)
 
 # lecturas
 ## [ruta](https://drive.google.com/file/d/19nv-weXL5FDrGLwE0N6UybOJTXVaA7t4/view?usp=sharing)
